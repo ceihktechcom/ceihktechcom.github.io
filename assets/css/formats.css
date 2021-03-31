@@ -98,8 +98,8 @@ p { margin-bottom: 0; margin-top: 0.6em; }
 .margin-text { color: gray; margin-top: 1.2em; }
 .codeblock { font-family: monospace, monospace; line-height: 1em; margin-top: 0.5em; }
 .codeblock + .codeblock { font-family: monospace, monospace; line-height: 1em; margin-top: 0; }
-h1 { color: rgb(17,17,17); font-size: 2em; margin: 0; margin-bottom: 0.75em; }
-h2 { color: rgb(17,17,17); font-size: 1.5em; margin-bottom: 0; margin-top: 1em; }
+h1 { color: rgb(34,34,34); font-size: 1.75em; margin: 0; margin-bottom: 0.75em; }
+h2 { color: rgb(34,34,34); font-size: 1.25em; margin-bottom: 0; margin-top: 1em; }
 h1 + h2 { margin-top: 0.9em; }
 .comment { border: 1px solid #AAAAAA; margin-top: 0.5em; }
 .comment-body { background-color: #F8F8F8; font-size: 90%; margin: 0; padding: 3px; }
@@ -149,11 +149,11 @@ figure.img_fixed_column video,figure.img_fixed_column img,figure.img_fixed_colum
 figure > figcaption, .image-title { font-style: italic; }
 ol.schema-procedural-instruction { margin-bottom: 0; margin-top: 0.6em; padding-left: 35px; }
 li.schema-condition { list-style-type: none; margin-bottom: 0; margin-top: 0.6em; padding-left: 5px; }
-li.schema-condition:before { color: rgb(34,34,34); content: "\e116"; display: inline-block; font-family: "schema-glyphs"; font-weight: bold; list-style-type: none; margin-left: -35px; text-align: center; text-indent: 0; width: 35px; }
+li.schema-condition:before { color: rgb(0,152,221); content: "\e116"; display: inline-block; font-family: "schema-glyphs"; font-weight: bold; list-style-type: none; margin-left: -35px; text-align: center; text-indent: 0; width: 35px; }
 li.schema-intermediateresults { list-style-type: none; margin-bottom: 0; margin-top: 0.6em; padding-left: 35px; }
-li.schema-intermediateresults:before { color: rgb(34,34,34); content: "\e095"; display: inline-block; font-family: "schema-glyphs"; font-weight: bold; margin-left: -35px; text-align: center; text-indent: 0; width: 35px; }
+li.schema-intermediateresults:before { color: rgb(0,152,221); content: "\e095"; display: inline-block; font-family: "schema-glyphs"; font-weight: bold; margin-left: -35px; text-align: center; text-indent: 0; width: 35px; }
 li.schema-result { list-style-type: none; margin-bottom: 0; margin-top: 0.6em; padding-left: 2px; }
-li.schema-result:before { color: rgb(34,34,34); content: "\e095"; display: inline-block; font-family: "schema-glyphs"; font-weight: bold; margin-left: -35px; text-align: center; text-indent: 0; width: 35px; }
+li.schema-result:before { color: rgb(0,152,221); content: "\e095"; display: inline-block; font-family: "schema-glyphs"; font-weight: bold; margin-left: -35px; text-align: center; text-indent: 0; width: 35px; }
 .instructions { color: rgb(85,85,85); }
 .instructions-title { font-weight: bold; }
 .conditions-title { font-weight: bold; }
@@ -266,11 +266,11 @@ ul.schema-languages li::before { padding-right: 40px; }
 .schema-aspect-zh { background-image: url("../img/languages/cn.svg"); }
 .schema-aspect-zh-CHS { background-image: url("../img/languages/cn.svg"); }
 .schema-aspect-he { background-image: url("../img/languages/il.svg"); }
-.titlepage .titlepage-informationproduct { color: rgb(17,17,17); font-size: 1.5em; margin: 0; }
-.titlepage .titlepage-productname { color: rgb(17,17,17); font-size: 2em; font-weight: bold; margin-top: 0.25em; }
+.titlepage .titlepage-informationproduct { color: rgb(34,34,34); font-size: 1.25em; margin: 0; }
+.titlepage .titlepage-productname { color: rgb(34,34,34); font-size: 1.75em; font-weight: bold; margin-top: 0.25em; }
 .titlepage .titlepage-ce { height: 5mm; }
 .titlepage .titlepage-image { max-height: 10em; max-width: 20em; }
 .titlepage-multiling { padding: 2em; }
-.titlepage-multiling .title-multiling { color: rgb(17,17,17); font-size: 1.5rem; }
+.titlepage-multiling .title-multiling { color: rgb(34,34,34); font-size: 1.5rem; }
 .titlepage-multiling .lang-selection { margin: 0; padding: 0; }
 _:-ms-fullscreen, :root .ie11-flexcol > img { flex-shrink: 0; max-height: 100%; }
