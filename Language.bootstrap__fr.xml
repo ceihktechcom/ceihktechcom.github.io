@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<l:langdata xmlns:l="http://www.schema.de/XSL/ST4DocuManagerlang">
+	<l:langblock xml:lang="fr">
+		<l:gentext key="aria.breadcrumb" value="Exploration à l’aide de la barre de navigation" />
+		<l:gentext key="aria.footerLabel" value="Copyright" />
+		<l:gentext key="aria.langMenu" value="Sélection des langues" />
+		<l:gentext key="aria.letterPagination" value="Navigation par ordre alphabétique" />
+		<l:gentext key="aria.listStep" value="Étape" />
+		<l:gentext key="aria.pagination" value="Navigation par numérotation des pages" />
+		<l:gentext key="aria.piConditions" value="Conditions" />
+		<l:gentext key="aria.piInstructions" value="Instructions" />
+		<l:gentext key="aria.piIntermediateResult" value="Résultats intermédiaires" />
+		<l:gentext key="aria.navbar" value="Barre de navigation" />
+		<l:gentext key="aria.piResults" value="Résultats" />
+		<l:gentext key="aria.proceduralinstructions" value="Instruction" />
+		<l:gentext key="aria.safetyCause" value="Cause" />
+		<l:gentext key="aria.safetyCondition" value="Conditions" />
+		<l:gentext key="aria.safetyConsequences" value="Conséquences" />
+		<l:gentext key="aria.safetyInstructions" value="Instructions de sécurité" />
+		<l:gentext key="aria.safetyIntermediateResult" value="Résultats intermédiaires" />
+		<l:gentext key="aria.safetyResult" value="Résultats" />
+		<l:gentext key="aria.safetySymbol" value="Icône d’alerte" />
+		<l:gentext key="aria.searchresults" value="Résultats de la recherche" />
+		<l:gentext key="aria.siteHeader" value="En-tête" />
+		<l:gentext key="aria.ToggleToc" value="Activer/désactiver le sommaire" />
+		<l:gentext key="aria.tocToggleChapter" value="Activer/désactiver niveau du chapitre" />
+		<l:gentext key="caution" value="ATTENTION" />
+		<l:gentext key="commented.by" value="Commentaire de" />
+		<l:gentext key="componentlink" value="Composants complémentaires" />
+		<l:gentext key="danger" value="DANGER" />
+<!--		<l:gentext key="edition" value="Édition" />-->
+		<l:gentext key="embedded.caution" value="ATTENTION !" />
+		<l:gentext key="embedded.danger" value="DANGER !" />
+		<l:gentext key="embedded.notice" value="AVIS !" />
+		<l:gentext key="embedded.warning" value="AVERTISSEMENT !" />
+		<l:gentext key="footnotes" value="Notes en bas de page" />
+		<l:gentext key="furtherinformation" value="Informations complémentaires" />
+		<l:gentext key="glossary" value="Glossaire" />
+		<l:gentext key="glossaryentry" value="Entrée de glossaire" />
+<!--		<l:gentext key="graficgrouplink" value="Ressources de graphiques contenues" />-->
+		<l:gentext key="GrammaticalGender" value="Genre grammatical" />
+<!--		<l:gentext key="images" value="Images" /> -->
+		<l:gentext key="index" value="Index" />
+		<l:gentext key="indexsections" value="Symboles[*];Numérique[0-9];A;B;C;D;E;F;G;H;I;J;K;L;M;N;O;P;Q;R;S;T;U;V;W;X;Y;Z" />
+		<l:gentext key="label.fig" value="Fig." />
+		<l:gentext key="label.part" value="PARTIE" />
+		<l:gentext key="label.table" value="Tab." />
+		<l:gentext key="label.continuation" value="Suite" />
+		<l:gentext key="label.of" value="de" />
+		<l:gentext key="Language" value="Langue" />
+<!--		<l:gentext key="lexicon" value="Lexique" />-->
+		<l:gentext key="MaintenanceCycleLink" value="Cycle d’entretien" />
+		<l:gentext key="maintenance.duration" value="Temps nécessaire" />
+		<l:gentext key="maintenance.facilities" value="Moyens" />
+		<l:gentext key="maintenance.interval" value="Intervalle d’entretien" />
+		<l:gentext key="maintenance.title" value="Indications d’entretien" />
+		<l:gentext key="maintenance.tools" value="Outillage spécial" />
+<!--old ??-->		<l:gentext key="multilangtitle" value="Page de titre" />
+		<l:gentext key="multilangtoc" value="Sommaire" />
+		<l:gentext key="nav.back" value="retour" />
+<!--		<l:gentext key="nav.back-to" value="Précédent..." />-->
+<!--		<l:gentext key="nav.components" value="Composants" />-->
+<!--		<l:gentext key="nav.content" value="Sitemap" />-->
+<!--		<l:gentext key="nav.glossary" value="Glossaire" />-->
+<!--		<l:gentext key="nav.glossry" value="Glossaire" />-->
+		<l:gentext key="nav.home" value="Accueil" />
+<!--		<l:gentext key="nav.index" value="Index" />-->
+<!--		<l:gentext key="nav.infotypes" value="Types d’informations" />-->
+		<l:gentext key="nav.menu" value="Menu" />
+		<l:gentext key="nav.print" value="Imprimer" />
+		<l:gentext key="nav.search" value="Recherche" />
+<!--		<l:gentext key="nav.to-infotypes" value="Types d’informations présents" />-->
+		<l:gentext key="notice" value="Avis" />
+		<l:gentext key="notes" value="Notes" />
+<!--		<l:gentext key="PersonnelLink" value="Personnel" />-->
+		<l:gentext key="relatedDocuments" value="Documents sur ce point" />
+		<l:gentext key="search.info" value="Résultats trouvés pour" />	
+		<l:gentext key="search.submit" value="Exécuter recherche" />
+		<l:gentext key="seealsolink" value="Voir aussi" />
+		<l:gentext key="seedocuments" value="Documents sur ce point" />
+<!--		<l:gentext key="seq.images" value="Image" />-->
+<!--		<l:gentext key="seq.tables" value="Tableau" />-->
+		<l:gentext key="SortKey" value="Clé de tri" />
+		<l:gentext key="SubjectField" value="Domaine" />
+		<l:gentext key="step" value="Étape" />
+<!--		<l:gentext key="tables" value="Tableaux" />-->
+		<l:gentext key="Term" value="Dénomination" />
+		<l:gentext key="toc" value="Sommaire" />
+		<l:gentext key="unresolved.link" value="&gt;Impossible de résoudre le lien&lt;" />
+		<l:gentext key="Validity" value="État" />
+		<l:gentext key="version" value="Version" />
+		<l:gentext key="warning" value="AVERTISSEMENT" />
+		<l:gentext key="WatermarkText" value="Préliminaire - Uniquement pour usage interne" />
+		<l:gentext key="xref" value="Vous trouvez les information dans le document à la page " />
+<!--		<l:gentext key="xreftoc" value="(Réutilisation)" />-->	
+<!--		<l:gentext key="deadly" value="mortel" />-->	
+	</l:langblock>
+</l:langdata>

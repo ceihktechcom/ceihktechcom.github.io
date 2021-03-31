@@ -143,6 +143,7 @@ ol.list > li > ul > li, ul.list > li > ul > li { margin-bottom: 0; margin-top: 0
 .list-safety { list-style-type: none; }
 .list-image { list-style-type: none; }
 .list-indent-1, .list-indent-2 { list-style-type: none; }
+ul.list > li > ul > li { color: rgb(176,0,0) !important; content: LIST; margin-bottom: 0; margin-top: 0.6em; }
 figure, svg[data-hotspot-id] { margin-bottom: 0; margin-top: 0.5em !important; }
 figure video,figure img,figure svg { display: block; height: auto; max-width: 100%; }
 figure.img_80 video,figure.img_80 img,figure.img_80 svg { max-width: 30rem; width: 80%; }
