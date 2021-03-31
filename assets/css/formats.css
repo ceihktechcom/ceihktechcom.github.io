@@ -98,7 +98,7 @@ p { margin-bottom: 0; margin-top: 0.6em; }
 .margin-text { color: gray; margin-top: 1.2em; }
 .codeblock { font-family: monospace, monospace; line-height: 1em; margin-top: 0.5em; }
 .codeblock + .codeblock { font-family: monospace, monospace; line-height: 1em; margin-top: 0; }
-h1 { color: rgb(34,34,34); font-size: 1.75em; margin: 0; margin-bottom: 0.75em; }
+h1 { color: rgb(34,34,34); font-size: 1.5em; margin: 0; margin-bottom: 0.75em; }
 h2 { color: rgb(34,34,34); font-size: 1.25em; margin-bottom: 0; margin-top: 1em; }
 h1 + h2 { margin-top: 0.9em; }
 .comment { border: 1px solid #AAAAAA; margin-top: 0.5em; }
